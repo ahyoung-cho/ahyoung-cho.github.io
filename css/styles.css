@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #fc9483;
+  color: #D0C8C9;
   text-decoration: none;
   background-color: transparent;
 }
@@ -472,7 +472,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ffb6c1 !important;
+  background-color: #D0C8C9 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #fdab9f !important;
+  color: #D0C8C9 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
